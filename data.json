@@ -236,19 +236,19 @@
   "footer_menu": [
     {
       "link": "/play/",
-      "label": "Contacts",
+      "label": "Payment policy",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Privacy Policy",
+      "label": "Cookies policy",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Betting Rule",
+      "label": "Bonus policy",
       "submenu": [],
       "openInNewTab": false
     },
@@ -260,23 +260,24 @@
     },
     {
       "link": "/play/",
-      "label": "Cookies Policy",
+      "label": "Privacy policy",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Terms & Conditions",
+      "label": "Contact Us",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "How to Bet",
       "submenu": [],
       "openInNewTab": false
     }
   ],
   "footer_images": [
-    {
-      "link": "https://www.gambleaware.org/",
-      "image": "/uploads/7b5af286adade20c01b9aee4e0251787.webp",
-      "image_alt": "be gamble aware"
-    },
     {
       "link": "https://www.gamcare.org.uk/",
       "image": "/uploads/1bfe3b454cda5ccf482e868ba2dfdc15.webp",
@@ -284,18 +285,23 @@
     },
     {
       "link": "/play/",
+      "image": "/uploads/bbf15b10671656850b4a6181ada2f5e0.webp",
+      "image_alt": "18+"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/292521eb44c05ec0fdfefa6dbaa3dd0c.svg",
+      "image_alt": "apple pay"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/acd94c7d64c4572fa58fc8f828f74bd8.svg",
+      "image_alt": "googlepay"
+    },
+    {
+      "link": "/play/",
       "image": "/uploads/6e4898443d8c7a6d3f85c8c699adf4b8.svg",
       "image_alt": "visa"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/2333a8386ea6b8af17c8fa8ac44035e2.svg",
-      "image_alt": "mastercard"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/2767b5abec611eeaecc8af4ad65c2a43.svg",
-      "image_alt": "btc"
     }
   ],
   "Slots": [
@@ -378,8 +384,8 @@
       "question": "Hoe lang duurt het verwerken van een uitbetaling bij MamaBet?"
     }
   ],
-  "_generated_at": "2026-09-15T12:17:07.637Z",
+  "_generated_at": "2026-09-15T13:38:31.454Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-15T12:17:08.346Z",
-  "_deploy_trigger": "tnmbyr"
+  "_last_deploy": "2026-09-15T13:38:32.206Z",
+  "_deploy_trigger": "baih9n"
 }
