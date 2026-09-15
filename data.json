@@ -198,12 +198,6 @@
   "header_menu": [
     {
       "link": "/play/",
-      "label": "Inloggen",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/play/",
       "label": "App",
       "submenu": [],
       "openInNewTab": false
@@ -366,8 +360,8 @@
       "question": "Hoe lang duurt het verwerken van een uitbetaling bij MamaBet?"
     }
   ],
-  "_generated_at": "2026-09-15T15:00:34.272Z",
+  "_generated_at": "2026-09-15T15:08:28.680Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-15T15:00:34.930Z",
-  "_deploy_trigger": "ird5t"
+  "_last_deploy": "2026-09-15T15:08:29.307Z",
+  "_deploy_trigger": "gig4h3"
 }
