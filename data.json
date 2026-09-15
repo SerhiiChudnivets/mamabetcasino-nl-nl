@@ -198,19 +198,19 @@
   "header_menu": [
     {
       "link": "/play/",
-      "label": "Login",
+      "label": "Inloggen",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Application",
+      "label": "App",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Review",
+      "label": "Opname",
       "submenu": [],
       "openInNewTab": false
     },
@@ -225,54 +225,36 @@
       "label": "Slots",
       "submenu": [],
       "openInNewTab": false
-    },
-    {
-      "link": "/play/",
-      "label": "Withdrawal",
-      "submenu": [],
-      "openInNewTab": false
     }
   ],
   "footer_menu": [
     {
       "link": "/play/",
-      "label": "Payment policy",
+      "label": "Verantwoord spelen",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Cookies policy",
+      "label": "Privacybeleid",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Bonus policy",
+      "label": "Cookiebeleid",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Responsible Gaming",
+      "label": "Algemene voorwaarden",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Privacy policy",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/play/",
-      "label": "Contact Us",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/play/",
-      "label": "How to Bet",
+      "label": "Contacten",
       "submenu": [],
       "openInNewTab": false
     }
@@ -384,8 +366,8 @@
       "question": "Hoe lang duurt het verwerken van een uitbetaling bij MamaBet?"
     }
   ],
-  "_generated_at": "2026-09-15T13:59:23.924Z",
+  "_generated_at": "2026-09-15T15:00:34.272Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-15T13:59:24.500Z",
-  "_deploy_trigger": "0ij770p"
+  "_last_deploy": "2026-09-15T15:00:34.930Z",
+  "_deploy_trigger": "ird5t"
 }
