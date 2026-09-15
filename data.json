@@ -255,9 +255,9 @@
   ],
   "footer_images": [
     {
-      "link": "https://www.gamcare.org.uk/",
-      "image": "/uploads/1bfe3b454cda5ccf482e868ba2dfdc15.webp",
-      "image_alt": "gamcare"
+      "link": "https://www.gambleaware.org/",
+      "image": "/uploads/7b5af286adade20c01b9aee4e0251787.webp",
+      "image_alt": "be gamble aware"
     },
     {
       "link": "/play/",
@@ -360,8 +360,8 @@
       "question": "Hoe lang duurt het verwerken van een uitbetaling bij MamaBet?"
     }
   ],
-  "_generated_at": "2026-09-15T15:08:28.680Z",
+  "_generated_at": "2026-09-15T15:09:33.138Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-15T15:08:29.307Z",
-  "_deploy_trigger": "gig4h3"
+  "_last_deploy": "2026-09-15T15:09:33.721Z",
+  "_deploy_trigger": "af2lz"
 }
