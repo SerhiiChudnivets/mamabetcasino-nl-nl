@@ -23,7 +23,7 @@
       "heroTitle": "MamaBet Casino",
       "heroSubtitle": "ELKE SPIN EEN GROTE WIN",
       "heroBadge": "MamaBet – Spellen die je geweldig zult vinden",
-      "ctaText": "Claim je bonus",
+      "ctaText": "CLAIM NU!",
       "tagline": "Welkomstbonus 100% tot € 1.500 + 150 Free spins",
       "heroImage": "/uploads/add267062a0fd6e0cc7f433e14f078c2.webp",
       "template": "homepage",
@@ -101,7 +101,7 @@
       "html_head": "<link rel=\"canonical\" href=\"https://mamabetcasino-nl.nl/nl-nl/\">\n<link rel=\"alternate\" href=\"https://mamabetcasino-nl.nl/\" hreflang=\"nl\">\n<link rel=\"alternate\" href=\"https://mamabetcasino-nl.nl/nl-nl/\" hreflang=\"nl-NL\">\n<meta property=\"og:locale\" content=\"nl_NL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"MamaBet Casino Officieel | Directe Uitbetalingen & VIP Rewards\">\n<meta property=\"og:description\" content=\"Ervaar top-level gaming bij MamaBet. Toegang tot 7000+ slots, live casinotafels, exclusieve dagelijkse rakeback en snelle uitbetalingen. Speel nu mee!\">\n<meta property=\"og:url\" content=\"mamabetcasino-nl.nl\">\n<meta property=\"og:site_name\" content= \"MamaBet Casino\">\n",
       "faq_title": "FAQ – Veelgestelde Vragen",
       "hero_badge": "MamaBet – Spellen die je geweldig zult vinden",
-      "cta_text": "Claim je bonus"
+      "cta_text": "CLAIM NU!"
     }
   ],
   "faq_schema": {
@@ -163,7 +163,7 @@
   "hero_title": "MamaBet Casino",
   "hero_subtitle": "ELKE SPIN EEN GROTE WIN",
   "hero_badge": "MamaBet – Spellen die je geweldig zult vinden",
-  "cta_text": "Claim je bonus",
+  "cta_text": "CLAIM NU!",
   "tagline": "Welkomstbonus 100% tot € 1.500 + 150 Free spins",
   "features_list": null,
   "footer_text": "© 2026. MamaBet Casino. All rights reserved",
@@ -173,7 +173,7 @@
   "register_text": "Registreren",
   "slots_title": "Spellen bij MamaBet Casino",
   "bonus_title": "Bonussen en Promoties",
-  "get_bonus_btn_text": "Claim je bonus",
+  "get_bonus_btn_text": "CLAIM NU!",
   "redirect_link": "/play/ ",
   "home_name": "MamaBet Casino",
   "subdomains": null,
@@ -384,8 +384,8 @@
       "question": "Hoe lang duurt het verwerken van een uitbetaling bij MamaBet?"
     }
   ],
-  "_generated_at": "2026-09-15T13:38:31.454Z",
+  "_generated_at": "2026-09-15T13:59:23.924Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-15T13:38:32.206Z",
-  "_deploy_trigger": "baih9n"
+  "_last_deploy": "2026-09-15T13:59:24.500Z",
+  "_deploy_trigger": "0ij770p"
 }
